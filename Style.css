@@ -7,12 +7,12 @@
     CSS - 
 */
 body{
-     background-color: #F5F5F5;
-     color: #40407A;
+     background-color: #fff6fa;
+     color: #e23376;
      font-family: Verdana, Arial, sans-serif;
 }
 header{
-    background-color: #80cbc4;
+    background-color: #fc8bc7;
     text-align: center;
 }
 h1{
@@ -26,7 +26,7 @@ nav{
     font-weight: bold;
 }
 footer{
-    background-color: #80cbc4;
+    background-color: #fc8bc7;
     font-size: .6em;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -34,7 +34,7 @@ footer{
 }
 /* class section */
 .studio{    /* class for the name of the sutdio */
-    color: #40407A;
+    color: #e23376;
     font-style: italic;
 }
 /* id section */
